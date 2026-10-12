@@ -103,4 +103,14 @@ Through this project, I practice:
 - Translating data analysis results into business insights.
 
 ---
-
+###Marketing Campaign SQL Practice Questions
+1. Data Exploration: What does the marketing campaign dataset look like? Display the first 10 rows.
+2. Identify Marketing Channels: What distinct marketing channels are present in the dataset?
+3. Revenue Analysis: How much total revenue did each marketing channel generate?
+4. Advertising Spend Analysis: How much money was spent on each marketing channel?
+5. Campaign Performance: Which 10 campaigns received the highest number of clicks?
+6. Click-Through Rate (CTR): What is the click-through rate (CTR) for each marketing channel?
+7. Cost Per Click (CPC): Which marketing channels have the lowest cost per click?
+8. Conversion Rate: Which marketing channels are the most successful at converting clicks into conversions?
+9. Return on Ad Spend (ROAS): Which marketing channels generate the highest returns relative to their advertising spend?
+10. Marketing Budget Optimization: Which marketing channels should have their budgets reconsidered based on spend, revenue, ROAS, and conversion rate, and why?
