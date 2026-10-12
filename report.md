@@ -236,13 +236,3 @@ The recommended next steps are to:
 5. Use controlled experiments to test proposed budget changes.
 
 Following this sequence would make the analysis more reliable and help ensure that future marketing decisions are supported by evidence rather than assumptions.
-
----
-
-## 11. Methodology Note
-
-The analysis uses aggregated SQL query results from the marketing dataset. Ratios are calculated from their relevant totals, and conclusions are limited to the reported metrics.
-
-No causal relationship, statistically significant difference, or net-profit outcome is claimed without additional supporting data.
-
-This distinction is important because a sound marketing analytics report should separate observed results from hypotheses and recommendations.
