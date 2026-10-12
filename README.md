@@ -1,8 +1,6 @@
 # marketing
 # Marketing Campaign Performance Analysis with SQL
 
-## English
-
 ### Project Overview
 
 This project focuses on analyzing multi-channel marketing campaign performance using SQL and Google BigQuery Sandbox.
